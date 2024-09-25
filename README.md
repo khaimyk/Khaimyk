@@ -1,8 +1,8 @@
-<a href="https://s3.amazonaws.com/attachments.angel.co/7192901-687be9e284e21102b934d0b72399ac9d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T235828Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4920642ceb1885f01605debb7f6f9148dfcaa97bf073abc27e7b2a91e8531082" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:haimyk1999@gmail.comm"><img src="https://img.shields.io/badge/Email-Valentyn-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/valentyn-khaimyk-66207332b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://s3.amazonaws.com/attachments.angel.co/7192901-687be9e284e21102b934d0b72399ac9d.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJS6W3HGZGRJIRBTA%2F20220727%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220727T235828Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4920642ceb1885f01605debb7f6f9148dfcaa97bf073abc27e7b2a91e8531082" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:haimyk1999@gmail.comm"><img src="https://img.shields.io/badge/Email-Valentyn-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/valentyn-khaimyk-66207332b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Valentyn%20Khaimyk-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 
 
-# [Twitter clone](https://github.com/khaimyk/user-management.git)
+# [test task ](https://github.com/khaimyk/user-management.git)
 <p align="left"> <a href="https://github.com/khaimyk/user-management.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Building a User Management Table: Develops a table that displays user
@@ -30,27 +30,19 @@ Design the table and search inputs to be user-friendly and visually appealing. T
 is up to you, aiming for a clean and effective user interface.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863810-73f22780-c914-11ea-9f27-e2d92d2f032c.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863809-705ea080-c914-11ea-8417-e7b221657ad5.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863814-75bbeb00-c914-11ea-9066-e6705263a47d.jpg" width="230"  title="Twitter clone">
+<img src="https://github.com/user-attachments/assets/d0398c73-236f-4350-af7c-7787af63361c" width="500" width="400" title="User">
 </p>
 
-# Firebase auth + Transition animation practice
 
-* Implemented Firebase Auth
-* Background gradient animation
-* Transition animation
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87865979-5b900600-c930-11ea-988d-6e075526e8b9.gif" width="230" title="Transition animation practice">
-</p>
-
-# [ARKit + Face Tracking practice](https://github.com/khaimyk/storeCopy.git)
+# [shop "Vivflame"](https://github.com/khaimyk/storeCopy.git)
 <p align="left"> <a href="https://github.com/khaimyk/storeCopy.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 
 * ARKit Face Tracking feature
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/88236681-64cfea00-cc32-11ea-8dac-5013d1e660dc.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/88236534-16225000-cc32-11ea-8079-93716c06e8c3.gif" width="230"  title="ARKit Face Tracking feature">
+<img src="https://github.com/user-attachments/assets/47dd0fea-be14-446b-a21d-b732f8f7ed2a" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/8d096dad-2c63-4dd5-9f3d-5250fea21ff8" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/7bc57b55-4522-4b04-a9c9-b8cae279b327" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/b0685696-4341-4630-bc4f-20ee339da7f0" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/8fa5cc26-ba9b-4d38-a501-ccc3f1654e14" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/db10145d-b3cf-4f14-ae03-f290b7d4cb55" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/1ddf8e0d-7292-4bff-9e02-4d09760302d7" width="150" title="vivflame">
 </p>
 
 ## Thanks for stopping by!

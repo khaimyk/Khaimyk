@@ -45,6 +45,21 @@ is up to you, aiming for a clean and effective user interface.
 <img src="https://github.com/user-attachments/assets/47dd0fea-be14-446b-a21d-b732f8f7ed2a" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/8d096dad-2c63-4dd5-9f3d-5250fea21ff8" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/7bc57b55-4522-4b04-a9c9-b8cae279b327" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/b0685696-4341-4630-bc4f-20ee339da7f0" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/8fa5cc26-ba9b-4d38-a501-ccc3f1654e14" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/db10145d-b3cf-4f14-ae03-f290b7d4cb55" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/1ddf8e0d-7292-4bff-9e02-4d09760302d7" width="150" title="vivflame">
 </p>
 
+
+# [mobile app "Aora"](https://github.com/khaimyk/Aora.git)
+<p align="left"> <a href="https://github.com/khaimyk/Aora.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+Built with React Native for seamless user experiences, Animatable for captivating animations, and integrated with the dependable backend systems of Appwrite, this app showcases impressive design and functionality, enabling seamless sharing of AI videos within the community.
+- React Native
+- Expo
+- Nativewind
+- Animatable
+- Appwrite
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/47dd0fea-be14-446b-a21d-b732f8f7ed2a" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/8d096dad-2c63-4dd5-9f3d-5250fea21ff8" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/7bc57b55-4522-4b04-a9c9-b8cae279b327" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/b0685696-4341-4630-bc4f-20ee339da7f0" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/8fa5cc26-ba9b-4d38-a501-ccc3f1654e14" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/db10145d-b3cf-4f14-ae03-f290b7d4cb55" width="150" title="vivflame">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/1ddf8e0d-7292-4bff-9e02-4d09760302d7" width="150" title="vivflame">
+</p>
+
 ## Thanks for stopping by!
 
 # Contact Info:

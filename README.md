@@ -1,6 +1,10 @@
 <a href="https://pdfhost.io/v/.Fypz0MAs_Valentyn_Khaimyk_SV" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:haimyk1999@gmail.comm"><img src="https://img.shields.io/badge/Email-Valentyn-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/valentyn-khaimyk-66207332b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Valentyn%20Khaimyk-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 
+# [Beauty Room ](https://github.com/khaimyk/Beauty-Room.git)
+<p align="left"> <a href="https://github.com/khaimyk/Beauty-Room.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+This project is a full-featured online booking management system for businesses, built with a modern tech stack. It consists of a client side (React + Vite) and a server side (Node.js + Express + Prisma). The system includes role-based access with separate panels for master, admin, and super admin. The admin panel allows managing services, bookings, branches, clients, and access rights. It sends automated notifications via email and Telegram, including appointment reminders. The project supports multilingual UI, responsive design, testing, and deployment with Docker.
 
 # [test task ](https://github.com/khaimyk/user-management.git)
 <p align="left"> <a href="https://github.com/khaimyk/user-management.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>

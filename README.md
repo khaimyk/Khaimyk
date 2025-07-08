@@ -6,6 +6,11 @@
 </p>
 This project is a full-featured online booking management system for businesses, built with a modern tech stack. It consists of a client side (React + Vite) and a server side (Node.js + Express + Prisma). The system includes role-based access with separate panels for master, admin, and super admin. The admin panel allows managing services, bookings, branches, clients, and access rights. It sends automated notifications via email and Telegram, including appointment reminders. The project supports multilingual UI, responsive design, testing, and deployment with Docker.
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/db48c078-8e9a-47a7-a6ab-1431a7b0ba35" width="150" title="beauty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/97d12122-c8f4-42b0-ae5d-e91fe053c79e"
+ width="150" title="beauty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/9e974d8a-f4ee-4cf0-a225-cd7eafee31b6" width="150" title="beauty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/5628b5f7-1a27-42a1-a385-46c75132aeb9" width="150" title="beauty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/d1ac91ee-d14e-40b6-a64d-532b1429ae58" width="150" title="beauty">
+</p>
+
 # [test task ](https://github.com/khaimyk/user-management.git)
 <p align="left"> <a href="https://github.com/khaimyk/user-management.git"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
